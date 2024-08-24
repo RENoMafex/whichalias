@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 if [ $# -eq 0 ]; then
-		echo "Please enter an alias to find, where it is set."
+		echo "Please enter one alias to find out, where it is set."
 		exit 1
 fi
 
